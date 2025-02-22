@@ -1,0 +1,22 @@
+section{
+    transition: transform 0.25s;
+    will-change: transform;
+  }
+  
+
+  
+  div{
+    margin-bottom: 80px;
+  }
+  
+  .spacer{
+    height: 300px;
+  }
+
+  .card {
+    width: 21vw;
+    height: 21vw;
+    background-color: red;
+    margin-bottom: 1rem;
+
+  }
